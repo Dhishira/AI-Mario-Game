@@ -1,0 +1,49 @@
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.heading button
+{
+    float: right;
+    border-color: aliceblue;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+h4
+{
+   margin: 0%;
+   line-height: 2;
+   background-color: azure;
+}
+
+.modal-head h4
+{
+    display: inline;
+    background-color: gainsboro;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction-image
+{
+    width: 45%;
+}
